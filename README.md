@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on coding
-- basically, i just code..
+basically, i just code..
 
 <!---
 ghackg11/ghackg11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
